@@ -21,5 +21,10 @@ python3 weather_summary.py
 
 ## Example Output
 ```
-Today (10/23) is mostly sunny with highs in the lower 70s inland and upper 60s near the lake, followed by a mostly clear to partly cloudy night with lows in the lower 50s. Saturday (10/24) is mostly cloudy with highs around 70. Sunday (10/25) is partly cloudy with lower 70s. Monday (10/26) and Tuesday (10/27) stay mostly cloudy, with highs in the upper 60s and mid 60s. Wednesday (10/28) and Thursday (10/29) turn partly cloudy with upper 60s highs. Nights remain in the lower 50s throughout.
+This afternoon (10/23) is mostly sunny, with highs in the lower 70s inland and upper 60s
+near the lake. Tonight turns partly cloudy, with lows in the lower 50s. Saturday (10/24)
+is mostly cloudy with highs near 70, and Sunday (10/25) is partly cloudy with highs in
+the lower 70s. Monday (10/26) and Tuesday (10/27) are mostly cloudy, with highs in the
+upper 60s and mid 60s. Wednesday (10/28) and Thursday (10/29) turn partly cloudy, with
+highs in the upper 60s. Nights stay in the lower 50s.
 ```

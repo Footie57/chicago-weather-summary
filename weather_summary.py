@@ -36,7 +36,8 @@ message = client.messages.create(
             "role": "user",
             "content": "Summarize the following in plain text, paragraph form, \
             include the calendar dates when referring to the day of the week, \
-            and and use 100 words or less:" + getforecast(data) 
+            keep each line to around 80 characters,\
+            and use 100 words or less:" + getforecast(data) 
             
         }
     ],
